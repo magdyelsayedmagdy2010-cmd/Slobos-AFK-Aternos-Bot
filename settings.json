@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "viod1.aternos.me
-",
+    "ip": "viod1.aternos.me",
     "port": 33667,
     "version": "",
     "try-creative": false
